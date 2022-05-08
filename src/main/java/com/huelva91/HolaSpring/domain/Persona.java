@@ -1,8 +1,6 @@
 package com.huelva91.HolaSpring.domain;
 
 import lombok.Data;
-import lombok.NonNull;
-
 import javax.persistence.*;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotEmpty;
