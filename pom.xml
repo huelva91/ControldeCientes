@@ -15,6 +15,7 @@
 	<description>Hola mundo con Spring</description>
 	<properties>
 		<java.version>13</java.version>
+		<mainClass>com.huelva91.HolaSpring</mainClass>
 	</properties>
 	<dependencies>
 		<dependency>
